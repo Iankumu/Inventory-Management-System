@@ -1,1 +1,1 @@
-# softwareE
+A simple Inventory Management System
